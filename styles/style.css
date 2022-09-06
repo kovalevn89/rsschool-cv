@@ -55,24 +55,24 @@ a:hover {
 
 .header__title {
     max-height: 128px;
-    padding-top: 6px; 
+    padding-top: 6px;
     font-size: 28px;
-    font-weight: bold; 
+    font-weight: bold;
     color: #2a303d;
     overflow: hidden;
 }
 
 .header__subtitle {
-    padding-top: 6px; 
-    font-size: 18px; 
-    font-weight: normal; 
+    padding-top: 6px;
+    font-size: 18px;
+    font-weight: normal;
     color: #2a303d;
 }
 
 .main {
     height: 900px;
-    float: left; 
-    background-color: #2a303d;  
+    float: left;
+    background-color: #2a303d;
 }
 
 .main.block__left {
@@ -84,20 +84,20 @@ a:hover {
 }
 
 .section {
-    height: auto; 
-    width: 100%; 
-    margin-top: 10px; 
+    height: auto;
+    width: 100%;
+    margin-top: 10px;
 }
 
 .section__title {
-    width: 70%; 
-    height: 40px; 
+    width: 70%;
+    height: 40px;
     padding: 7px 7px;
     margin-bottom: 10px;
     font-family: 'Poppins', sans-serif;
     font-weight: bolder;
     color: #2a303d;
-    background-color: #e8ac34;;
+    background-color: #e8ac34;
 }
 
 .section__title__left {
@@ -111,42 +111,48 @@ a:hover {
     color:white;
 }
 
+.section__content-period {
+    width: 150px;
+    padding: 10px;
+    text-align: left;
+}
+
 .listitem__disk {
-    margin-left: 25px; 
+    margin-left: 25px;
     padding-left: 3px;
-    list-style: disc; 
+    list-style: disc;
 }
 
 .contacts__caption {
-    width: 80px; 
-    float: left; 
+    width: 80px;
+    float: left;
     font-style: italic;
 }
 
 .section__code {
     width: 98%;
-    height: auto ; 
-    margin: 10px; 
+    height: auto;
+    margin: 10px;
     padding: 10px;
-    background-color: #1B274B; 
+    background-color: #1B274B;
 }
 
 .footer {
-    width: 100%; 
-    height: 80px; 
-    float: left; 
+    width: 100%;
+    height: 80px;
+    float: left;
     font-family: 'Poppins', sans-serif;
-    background-color: #e8ac34; 
+    background-color: #e8ac34;
 }
 
 .footer__block {
-    width: 33%; 
-    height: 100%;  
-    float: left; 
+    width: 33%;
+    height: 100%;
+    float: left;
     padding-top: 12px;
     text-align: center;
 }
 
 .footer__block__center {
-    padding-top: 25px;     
+    padding-top: 25px;
 }
